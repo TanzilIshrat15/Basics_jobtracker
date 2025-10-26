@@ -1,3 +1,14 @@
+
+Job Tracker Application — This was my first hands-on project while learning full-stack development. I built it using Spring Boot, MySQL, and React to understand how the backend and frontend work together.
+The project allows users to manage their job applications — they can add, view, update, and delete job details such as company name, position, application date, and status.
+Through this project, I learned about REST APIs, CRUD operations, database integration using JDBC, and how to test endpoints using Postman.
+It was a great learning experience that helped me strengthen my foundation in backend development and understand the structure of a real-world web application.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
